@@ -46,3 +46,11 @@ The compilation folder is anything you want it to be. I have a folder for movie 
 ### Multiple CD Compilation Disc Template
 `Soundtracks\The Best Movie Album In The World Ever (2008)[flac]\1-01 - Goo Goo Dolls - Iris.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Artist> - <Title>`
+## Single Tracks Templates
+You may have single tracks laying around in your storage. I have made two kinds of sorting, I use the decade folder sorting system. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
+### Single Tracks by Decade
+`Various Tracks\1980-1989[Mixed]\Aswad - Don't Turn Around.flac`
+> `<compilation folder>\<Decade>[Mixed]\<Artist> - <Title>`
+### Single Tracks by Alphabet
+`Various Tracks\T[Mixed]\Tenacious D - Tribute (2001).flac`
+> `<compilation folder>\<Letter>[Mixed]\<Artist> - <Title> (<Year>)`
