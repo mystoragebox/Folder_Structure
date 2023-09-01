@@ -1,2 +1,2 @@
 # Folder_Structure
-This is the way I manage different folder structures for myself.
+I made this respositry to keep my folder structure rules in one place. Its public because somebody might find this information useful!!
