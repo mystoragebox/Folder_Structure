@@ -38,11 +38,11 @@ To give an example:
 ### Multiple CD Albums Template
 `Massive Attack\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Title>`
-## Single CD Complation Disc Template
+## Single CD Compilation Disc Template
 The compilation folder is anything you want it to be. I have a folder for movie soundtracks and another for mix CD's.
 
 `Soundtracks\Gone in 60 Seconds OST (2000)[flac]\01 - Painted On My Heart.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
-### Multiple CD Complation Disc Template
+### Multiple CD Compilation Disc Template
 `Soundtracks\The Best Movie Album In The World Ever (2008)[flac]\1-01 - Goo Goo Dolls - Iris.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Artist> - <Title>`
