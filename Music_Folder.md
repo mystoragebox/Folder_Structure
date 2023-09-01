@@ -6,7 +6,7 @@ All the templates below assume you are already in the root music folder.
 The metadata embedded into the music file is important. Here is a list of metadata fields I use to organise the files. Most of these fields need no explanation but I have provided explanation for where appropriate.
 * Track Title
 * Artist
-* Album Artist `This has the folder name ie: Eminem`
+* Album Artist `This has the folder name ie: Eminem, Soundtracks etc.`
 * Album
 * Year
 * Track `track number`
@@ -15,7 +15,7 @@ The metadata embedded into the music file is important. Here is a list of metada
 * Grouping `This field is used for country of origin`
 * Track Rating
 * Language
-* Keywords `Can be used for naything, I use for auto playlists`
+* Keywords `Can be used for anything, I use for auto playlists`
 ## Images
 These are the images I use in my folders and the naming convention for them.
 * logo.png
@@ -30,11 +30,15 @@ To give an example:
 * `Limp Bizkit\`backdrop.jpg
 * `Limp Bizkit\`backdrop1.jpg
 * `Limp Bizkit\`banner.jpg
-* `Limp Bizkit\`folder.jpg
+* `Limp Bizkit\`folder.jpg `Artist photo`
 * `Limp Bizkit\`logo.png
-## Album or Single on One CD Template
+## Single CD Album or Singles Template
 `Eminem\Curtain Call (2005)[flac]\01 - Intro.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
 ## Multiple CD Albums Template
 `Massive Attack\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Title>`
+## Single CD Complation Disc Template
+The compilation folder is anything you want it to be. I have a folder for movie soundtracks and another for mix CD's.
+`Soundtracks\Gone in 60 Seconds OST (2000)[flac]\01 - Painted On My Heart.flac`
+> `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
