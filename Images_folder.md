@@ -14,3 +14,5 @@ If you are the repositry of your whole family you can put their name next to the
 `<Year>\<Numbered Month>-<Device>-<Person>\<Filename>-<Description>.<ext>`
 
 `2004\07-Sony P32-Dad\DSC03462-Beach.jpg`
+
+`2010\10-Sony SR47E-Dad\M2U00095-Birthday.mpg`
