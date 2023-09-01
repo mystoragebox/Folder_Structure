@@ -14,6 +14,7 @@ The metadata embedded into the music file is important. Here is a list of metada
 * Track Rating
 * Language
 * Keywords `Can be used for naything, I use for auto playlists`
+
 All the templates assume you are already in the root music folder.
 ## Album or Single on One CD
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
