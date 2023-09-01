@@ -16,6 +16,22 @@ The metadata embedded into the music file is important. Here is a list of metada
 * Track Rating
 * Language
 * Keywords `Can be used for naything, I use for auto playlists`
+## Images
+These are the images I use in my folders and the naming convention for them.
+* logo.png
+* backdrop.jpg
+* backdrop1.jpg
+* banner.jpg
+* folder.jpg `Artist photo`
+* folder.jpg `Album cover`
+
+To give an example:
+* `Limp Bizkit\Still Sucks (2021)[flac]\`folder.jpg `Album cover`
+* `Limp Bizkit\`backdrop.jpg
+* `Limp Bizkit\`backdrop1.jpg
+* `Limp Bizkit\`banner.jpg
+* `Limp Bizkit\`folder.jpg
+* `Limp Bizkit\`logo.png
 ## Album or Single on One CD Template
 `Eminem\Curtain Call (2005)[flac]\01 - Intro.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
