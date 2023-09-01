@@ -1,5 +1,5 @@
 # Music Folder Structure
-This file outlines the best way I found to organise my music files. This works for me and you can change the structure to suit your music folder. I use Musicbee to organise the files and as such, will outline them below.
+This file outlines the best way I found to organise my music files. This works for me and you can change the structure to suit your music folder. I use Musicbee to organise the files and as such, will outline the naming templates below.
 
 All the templates below assume you are already in the root music folder.
 ## Metadata
@@ -35,10 +35,14 @@ To give an example:
 ## Single CD Album or Singles Template
 `Eminem\Curtain Call (2005)[flac]\01 - Intro.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
-## Multiple CD Albums Template
+### Multiple CD Albums Template
 `Massive Attack\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Title>`
 ## Single CD Complation Disc Template
 The compilation folder is anything you want it to be. I have a folder for movie soundtracks and another for mix CD's.
+
 `Soundtracks\Gone in 60 Seconds OST (2000)[flac]\01 - Painted On My Heart.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
+### Multiple CD Complation Disc Template
+`Soundtracks\The Best Movie Album In The World Ever (2008)[flac]\1-01 - Goo Goo Dolls - Iris.flac`
+> `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Artist> - <Title>`
