@@ -6,7 +6,7 @@ All the templates below assume you are already in the root music folder.
 The metadata embedded into the music file is important. Here is a list of metadata fields I use to organise the files. Most of these fields need no explanation but I have provided explanation for where appropriate.
 * Track Title
 * Artist
-* Album Artist `This has the folder name ie: Eminem, Soundtracks etc.`
+* Album Artist `This has the folder name ie: Hilltop Hoods, Soundtracks etc.`
 * Album
 * Year
 * Track `track number`
