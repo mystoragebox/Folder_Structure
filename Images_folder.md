@@ -1,7 +1,7 @@
 # Home Photos and Videos Folder
 If you're like me you have had many phones and cameras over the years. I recently came up with this folder structure I'm happy with. It lets me search the folders easily and keeps all the raw files organised. 
 
-For edited photos and video I have made another folder outside of this folder, this is explaned on another page. 
+For edited photos and video I have made another folder outside of this folder, this is explaned below.
 
 This template assumes you're in the root images folder already.
 ## Personal Photos and Videos
@@ -17,3 +17,12 @@ If you are the repositry of your whole family you can put their name next to the
 * `<Year>\<Numbered Month>-<Device>-<Person>\<Filename>-<Description>.<ext>`
 * `2004\07-Sony P32-Dad\DSC03462-Beach.jpg`
 * `2010\10-Sony SR47E-Dad\M2U00095-Birthday.mpg`
+## Edited Images Folder
+I like to keep the raw and edited images in seperate folders. The edited images folder struture is similar to the raw folders with a slight change and has it's own root directory away from the raw images folder.
+
+*`<Root>\EDITED IMAGES\<Year>\<Device>\<Filename>-<Description>.<ext>`
+
+Notice how the device folders don't have the month. Another example is outlined below with the root folders shown.
+
+*`IMAGES\2018\09-Canon M3\IMG_9223-Botanic_Gardens.cr2`
+*`IMAGES EDITED\2018\Canon M3\IMG_9223-Botanic_Gardens.jpg`
