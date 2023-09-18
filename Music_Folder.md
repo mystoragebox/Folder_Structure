@@ -1,5 +1,5 @@
 # Music Folder Structure
-This file outlines the best way I found to organise music files. This is not definitive, think of it as a starting pointfor your own structure to suit yourself. I recommend Musicbee to organise the files and as such, will outline the naming templates below.
+This file outlines the best way I found to organise music files. This is not definitive, think of it as a starting pointfor your own structure to suit yourself. I use Musicbee to organise the files and as such, will outline the naming templates below.
 
 All the templates below assume you are already in the root music folder.
 ## Metadata
