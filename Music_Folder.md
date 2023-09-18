@@ -2,7 +2,7 @@
 Like I said in the readme file, I mostly follow the well established method of music folder structure. I use this to keep all my Musicbee templates in one place and to keep my metadata fields in order. All the templates below assume you are already in the root music folder.
 
 ## Metadata
-The metadata embedded into the music file is important. Here is a list of useful metadata fields. Most of these fields need no explanation but I have provided explanation for where appropriate.
+The metadata embedded into the music file is important. Here is a list of useful metadata fields. Most of these fields need no explanation but I have provided explanation where appropriate.
 * Track Title
 * Artist
 * Album Artist `This has the folder name ie: Hilltop Hoods, Soundtracks etc. This is so you can sort by album-artist in your software of choice.`
