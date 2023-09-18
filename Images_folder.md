@@ -13,7 +13,7 @@ Looking at this template I will now show some examples:
 * `2019\04-Canon M3\IMG_0875-Japan.cr2`
 * `2023\06-Sony A7RIII\DSC06441-Glamping_Da_Lat.arw`
 ## Family Photos and Videos
-If you are the repositry of your whole family you can put their name next to the device like so:
+If you are the backup of your whole family you can put their name next to the device like so:
 * `<Year>\<Numbered Month>-<Device>-<Person>\<Filename>-<Description>.<ext>`
 * `2004\07-Sony P32-Dad\DSC03462-Beach.jpg`
 * `2010\10-Sony SR47E-Dad\M2U00095-Birthday.mpg`
