@@ -1,11 +1,11 @@
 # Home Photos and Videos Folder
-If you're like me you have had many phones and cameras over the years. I recently came up with this folder structure I'm happy with. It lets me search the folders easily and keeps all the raw files organised. 
+If you're like me you've no doubt had many phones and cameras over the years. I recently came up with this folder structure I'm happy with for saving images and videos. It lets me search the folders easily and keeps all the raw files organised with a seperate edited folder if you need it. 
 
-For edited photos and video I have made another folder outside of this folder, this is explaned below.
-
-This template assumes you're in the root images folder already.
 ## Personal Photos and Videos
 Here I will show how I organise my own photos and videos starting with the naming template.
+
+This template assumes you're in the root images folder already.
+
 * `<Year>\<Numbered Month>-<Device>\<Filename>-<Description>.<ext>`
 
 Looking at this template I will now show some examples:
