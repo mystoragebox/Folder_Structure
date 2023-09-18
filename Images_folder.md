@@ -1,10 +1,28 @@
 # Home Photos and Videos Folder
-If you're like me you've no doubt had many phones and cameras over the years. I recently came up with this folder structure I'm happy with for saving images and videos. It lets me search the folders easily and keeps all the raw files organised with a seperate edited folder if you need it. 
+If you're like me you've no doubt had many phones and cameras over the years. I recently came up with this folder structure I'm happy with for saving images and videos. 
+
+### Folder Names
+The folder names start with the year and month then you can type in keywords to describe where the contents came from. Keeping it basic is key, I use a combination of what device it is and if the files belong to another family member. I have a few examples below:
+
+* `2021\12-Motorola Edge20`
+* `2021\12-Sony A7RIII`
+* `2021\12-Sony ZV1-Joel`
+
+Note how the three above folders are from the same year and month but have seperate folders for each device.
+
+### Searchable Files
+To keep the files searchable I write a few words in the filename. You should use descriptive words for this that clearly convey what the file is for. I edit the filenames with powertoys when copying to my pc. Below are a few examples:
+
+* Joel_Birthday
+* Christmas
+* Japan_Trip
+* Family_Reunion
+* Road_Trip
+
+The filename will look like this `IMG_9223-Botanic_Gardens.cr2`
 
 ## Personal Photos and Videos
-Here I will show how I organise my own photos and videos starting with the naming template.
-
-This template assumes you're in the root images folder already.
+This is the template I use for files that are saved from my own devices. Once you're in the root images folder you can create folder structures like this:
 
 * `<Year>\<Numbered Month>-<Device>\<Filename>-<Description>.<ext>`
 
@@ -13,8 +31,12 @@ Looking at this template I will now show some examples:
 * `2019\04-Canon M3\IMG_0875-Japan.cr2`
 * `2023\06-Sony A7RIII\DSC06441-Glamping_Da_Lat.arw`
 ## Family Photos and Videos
-If you are the backup of your whole family you can put their name next to the device like so:
+If you backup file from your family you can put their name next to the device in the folder name like so:
+
 * `<Year>\<Numbered Month>-<Device>-<Person>\<Filename>-<Description>.<ext>`
+
+Again looking at this template I will show you some examples:
+
 * `2004\07-Sony P32-Dad\DSC03462-Beach.jpg`
 * `2010\10-Sony SR47E-Dad\M2U00095-Birthday.mpg`
 ## Edited Images Folder
@@ -24,5 +46,5 @@ I like to keep the raw and edited images in seperate folders. The edited images 
 
 Notice how the device folders don't have the month. Another example is outlined below with the root folders shown.
 
-* `IMAGES\2018\09-Canon M3\IMG_9223-Botanic_Gardens.cr2`
-* `IMAGES EDITED\2018\Canon M3\IMG_9223-Botanic_Gardens.jpg`
+* `C:\IMAGES\2018\09-Canon M3\IMG_9223-Botanic_Gardens.cr2`
+* `C:\IMAGES EDITED\2018\Canon M3\IMG_9223-Botanic_Gardens.jpg`
