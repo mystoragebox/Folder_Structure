@@ -1,7 +1,6 @@
 # Music Folder Structure
-This file outlines the best way I found to organise music files. This is not definitive, think of it as a starting pointfor your own structure to suit yourself. I use Musicbee to organise the files and as such, will outline the naming templates below.
+Like I said in the readme file, I mostly follow the well established method of music folder structure. I use this to keep all my Musicbee templates in one place and to keep my metadata fields in order. All the templates below assume you are already in the root music folder.
 
-All the templates below assume you are already in the root music folder.
 ## Metadata
 The metadata embedded into the music file is important. Here is a list of useful metadata fields. Most of these fields need no explanation but I have provided explanation for where appropriate.
 * Track Title
@@ -15,7 +14,7 @@ The metadata embedded into the music file is important. Here is a list of useful
 * Grouping `This field is used for country of origin`
 * Track Rating
 * Language
-* Keywords `Can be used for anything, for example keywords for auto playlists`
+* Keywords `Can be used for anything, I use it for keywords in auto playlists`
 ## Images
 These are the most useful images and the naming convention for them.
 * logo.png
@@ -32,21 +31,23 @@ To give an example:
 * `Limp Bizkit\`banner.jpg
 * `Limp Bizkit\`folder.jpg `Artist photo`
 * `Limp Bizkit\`logo.png
-## Single CD Album or Singles Template
+## Single CD Album from One Artist
+This template is for cd's that come from a single artist.
+
 `Eminem\Curtain Call (2005)[flac]\01 - Intro.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
-### Multiple CD Albums Template
+### Multiple CD Albums from One Artist
 `Massive Attack\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Title>`
-## Single CD Compilation Disc Template
+## Single CD Compilation Disc
 The compilation folder is anything you want it to be. For example, have a folder for movie soundtracks and another for mix CD's.
 
 `Soundtracks\Gone in 60 Seconds OST (2000)[flac]\01 - Painted On My Heart.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
-### Multiple CD Compilation Disc Template
+### Multiple CD Compilation Disc
 `Soundtracks\The Best Movie Album In The World Ever (2008)[flac]\1-01 - Goo Goo Dolls - Iris.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Artist> - <Title>`
-## Single Tracks Templates
+## Single Tracks
 You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
 ### Single Tracks by Decade
 `Various Tracks\1980-1989[Mixed]\Aswad - Don't Turn Around.flac`
