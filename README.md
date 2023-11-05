@@ -5,4 +5,4 @@ I made this public because somebody out there might find it useful to organise t
 ## Music
 I mostly follow the well established guides on saving music to folders. I have no audiobooks so I can't say if this works for that and I have music videos in a seperate root folder. I outline the metadata fields I use most to easily search and organise my files.
 ## Images
-The images folder organises personal photos and videos into year/month categories. Each month has data for the device it was taken with and if the device belongs to someone else. The files have a few words to describe what the file is for. This folder is designed to save your orignial/raw files. I have outlined a way to save your edited files as well in a seperate root folder.
+The images folder organises personal photos and videos into year/month categories. Each month has data for the device it was taken with and if the device belongs to someone else. The files have a few words to describe what the file is for. This folder is designed to save your original/raw files. I have outlined a way to save your edited files as well in a seperate root folder.
