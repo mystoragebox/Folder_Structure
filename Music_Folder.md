@@ -1,8 +1,12 @@
 # Music Folder Structure
-Like I said in the readme file, I mostly follow the well established method of music folder structure. I use this to keep all my Musicbee templates in one place and to keep my metadata fields in order. All the templates below assume you are already in the root music folder.
+Like I said in the readme file, I mostly follow the well established method of music folder structure. I use this Github readme to keep all my Musicbee renaming templates in one place and to keep my metadata fields in order. All the templates below assume you are already in the root music folder.
+
+For example:
+`C:\MUSIC\.....`
 
 ## Metadata
 The metadata embedded into the music file is important. Here is a list of useful metadata fields. Most of these fields need no explanation but I have provided explanation where appropriate.
+
 * Track Title
 * Artist
 * Album Artist `This has the folder name ie: Hilltop Hoods, Soundtracks etc. This is so you can sort by album-artist in your software of choice.`
@@ -16,7 +20,7 @@ The metadata embedded into the music file is important. Here is a list of useful
 * Language
 * Keywords `Can be used for anything, I use it for keywords in auto playlists`
 ## Images
-These are the most useful images and the naming convention for them.
+These are the most useful images and the naming convention for them. This mostly follows the recommendations from Jellyfin because that's the service I use at home.
 * logo.png
 * backdrop.jpg
 * backdrop1.jpg
@@ -38,7 +42,7 @@ This template is for cd's that come from a single artist.
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
 ### Multiple CD Albums from One Artist
 `Massive Attack\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
-> `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Title>`
+> `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Title>`
 ## Single CD Compilation Disc
 The compilation folder is anything you want it to be. For example, have a folder for movie soundtracks and another for mix CD's.
 
@@ -46,7 +50,7 @@ The compilation folder is anything you want it to be. For example, have a folder
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
 ### Multiple CD Compilation Disc
 `Soundtracks\The Best Movie Album In The World Ever (2008)[flac]\1-01 - Goo Goo Dolls - Iris.flac`
-> `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc#>-<Track> - <Artist> - <Title>`
+> `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
 ## Single Tracks
 You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
 ### Single Tracks by Decade
