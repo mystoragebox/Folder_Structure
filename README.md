@@ -3,11 +3,13 @@ This respositry has guidelines to keep folder structure consistant on a PC or se
 
 Like it says above, these are basic folder structures that have been useful for me and up until this guide was made the folder guidelines were saved in txt files. I thought loading up github with these guides may help others to organise their own storage. The biggest benefit for others being folder structures that aren't so well documented like personal images, comics, music videos etc. There has been many hours testing what folder structures work and what metadata to use to keep files organised. It is not set in stone and it may change over time.
 
-There are a few different pieces of software used to organise files and they are:
+There are a few different pieces of software and utilities used to organise files and they are:
 * `Powertoys` - Great for bulk renaming files
 * `Musicbee` - Organise music and music videos
 * `Jellyfin` - Share content locally with devices in your home
 * `Python programming language` - bulk converting music videos, comics and more
+* `Ffmpeg` - Converting video files
+* `cmd` - Command line for some simple bulk video converting
 
 
 The first three programs have vibrant communities around them, Jellyfin is more for viewing and playback of files and python has scripts that I've made availble to use for converting files like mkv to mp4 or cbr to cbz.
