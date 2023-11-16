@@ -9,6 +9,7 @@ There are a few different pieces of software used to organise files and they are
 * `Jellyfin` - Share content locally with devices in your home
 * `Python programming language` - bulk converting music video file types and more
 
+
 The first three programs have vibrant communities around them and python is a shortcut for converting files so it's not needed much.
 ## Comics
 Comics have limited guides on the internet for folder stuctures. Some people like to organise by studio or keep collections in the same folder. The way that is outlined in this guide describes another way. This guide has a structure that prioritises using your program of choice to organise the comics into collections using metadata. This way may not be better or worse than other folder structures but it works well for Jellyfin.
