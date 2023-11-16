@@ -1,7 +1,7 @@
 # Folder Structure Guidelines
-This respositry has guidelines to keep folder structure consistant on a PC or server. Like it states these are guidelines and can be changed to suite yourself. There are already well established guides on music, movies and tv shows, here the basics are outlined for convenience.
+This respositry has guidelines to keep folder structure consistant on a PC or server. Like it states these are guidelines and can be changed to suite yourself. There are already well established guides on music, movies and tv shows, I have the basics for these file types outlined in this guide for my own convenience.
 
-Like it says above, these are basic folder structures that have been useful and others may find value to organise their own storage. The biggest benefit for others being folder structures that aren't so well documented like personal images, comics, music videos etc. There has been many hours testing what folder structures work and what metadata to use to keep files organised. It is not set in stone and it may change from time to time.
+Like it says above, these are basic folder structures that have been useful for me and up until this guide was made the folder guidelines were saved in txt files. I thought loading up github with these guides may help others to organise their own storage. The biggest benefit for others being folder structures that aren't so well documented like personal images, comics, music videos etc. There has been many hours testing what folder structures work and what metadata to use to keep files organised. It is not set in stone and it may change over time.
 
 There are a few different pieces of software used to organise files and they are:
 * `Powertoys` - Great for bulk renaming files
@@ -10,7 +10,7 @@ There are a few different pieces of software used to organise files and they are
 * `Python programming language` - bulk converting music videos, comics and more
 
 
-The first three programs have vibrant communities around them and python is a shortcut for converting files so it's not needed much.
+The first three programs have vibrant communities around them, Jellyfin is more for viewing and playback of files and python has scripts that I've made availble to use for converting files like mkv to mp4 or cbr to cbz.
 ## Comics
 Comics have limited guides on the internet for folder stuctures. Some people like to organise by studio or keep collections in the same folder. The way that is outlined in this guide describes another way. This guide has a structure that prioritises using your program of choice to organise the comics into collections using metadata. This way may not be better or worse than other folder structures but it works well for Jellyfin.
 
