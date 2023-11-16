@@ -21,4 +21,6 @@ The images folder organises personal photos and videos into year/month categorie
 ## Music
 This mostly follows the well established guides on saving music to folders. This does not cover audiobooks and music videos are in a seperate guide. This guide mostly outlines metadata fields and useful Musicbee renaming templates.
 > [Music Guide](Music_Folder.md)
- 
+## Music Video
+The file structure for music videos is very similar to music. The main difference is there is no sub folders for albums. I convert all video files into mp4 so metadata from Musicbee can be used and accessed by Jellyfin.
+> [Music Video Guide](Music_Video_folder.md)
