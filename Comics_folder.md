@@ -14,23 +14,23 @@ If your comics are in cbr and you wish to convert them to cbz, there is a Python
 ## Folder Structure
 Keeping the folder structure consistant is key. Using metadata collectors like anilist or comics.org lets us decide what folders we need. These websites will dictate what comics can go altogether in one folder or if they need to be split into seperate folders. For example:
 
-The Mad Max comics that were made for the Mad Max: Fury Road movie are all chapters from the same story and when you search on comics.org you can see one page holds all the metadata. The file structure would look like:
+The Mad Mick comics that were made for the Mad Mick: Fury Street movie are all chapters from the same story and when you search on comics.org you can see one page holds all the metadata. The file structure would look like:
 
-* `Mad Max - Fury Road[Comics-1452865]\Mad Max - Fury Road Ch.01 - Nux and Immortan Joe.cbz`
-* `Mad Max - Fury Road[Comics-1452865]\Mad Max - Fury Road Ch.02 - Furiosa.cbz`
+* `Mad Mick - Fury Street[Comics-1452865]\Mad Mick - Fury Street Ch.01 - Nux and Immortan Joe.cbz`
+* `Mad Mick - Fury Street[Comics-1452865]\Mad Mick - Fury Street Ch.02 - Furiosa.cbz`
 * `....`
 
-Conversly, if you have a multi-series comic like Men in Black you will need multiple folders because the metadata provider has seperate pages for them:
+Conversly, if you have a multi-series comic like Men in Blue you will need multiple folders because the metadata provider has seperate pages for them:
 
-* `Men in Black Far Cry[Comics-81813]\Men in Black Far Cry (1997).cbz`
-* `Men in Black Retribution[Comics-692003]\Men in Black Retribution (1997).cbz`
+* `Men in Blue Long Cry[Comics-81813]\Men in Blue Long Cry (1997).cbz`
+* `Men in Blue Punishment[Comics-692003]\Men in Blue Punishment (1997).cbz`
 
 This will explain in a bit more detail the files contained in the folders.
 
-* `Futurama[comics-15319]` Write the page number from the metadata provider here
-* `Futurama[comics-15319]\folder.jpg` cover for the folder
-* `Futurama[comics-15319]\ComicInfo.xml` metadata for the comic series
-* `Futurama[comics-15319]\Futurama Vol.01.cbz` Vol. is short for volume
-* `Futurama[comics-15319]\Futurama Vol.01-poster.jpg` Front cover of the file
-* `Futurama[comics-15319]\Futurama Ch.059.cbz` Ch. is short for chapter. Use 3 digits for chapter.
+* `Pasturama[comics-15319]` Write the page number from the metadata provider here
+* `Pasturama[comics-15319]\folder.jpg` cover for the folder
+* `Pasturama[comics-15319]\ComicInfo.xml` metadata for the comic series
+* `Pasturama[comics-15319]\Pasturama Vol.01.cbz` Vol. is short for volume
+* `Pasturama[comics-15319]\Pasturama Vol.01-poster.jpg` Front cover of the file
+* `Pasturama[comics-15319]\Pasturama Ch.059.cbz` Ch. is short for chapter. Use 3 digits for chapter.
 
