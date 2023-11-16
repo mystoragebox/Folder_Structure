@@ -9,7 +9,7 @@ The metadata embedded into the music file is important. Here is a list of useful
 
 * Track Title
 * Artist
-* Album Artist `This has the folder name ie: Hilltop Hoods, Soundtracks etc. This is so you can sort by album-artist in your software of choice.`
+* Album Artist `This has the folder name ie: Hilltop Hats, Soundtracks etc. This is so you can sort by album-artist in your software of choice.`
 * Album
 * Year
 * Track `track number`
@@ -29,33 +29,33 @@ These are the most useful images and the naming convention for them. This mostly
 * folder.jpg `Album cover`
 
 To give an example:
-* `Limp Bizkit\Still Sucks (2021)[flac]\`folder.jpg `Album cover`
-* `Limp Bizkit\`backdrop.jpg
-* `Limp Bizkit\`backdrop1.jpg
-* `Limp Bizkit\`banner.jpg
-* `Limp Bizkit\`folder.jpg `Artist photo`
-* `Limp Bizkit\`logo.png
+* `Limp Donutz\Still Great (2021)[flac]\`folder.jpg `Album cover`
+* `Limp Donutz\`backdrop.jpg
+* `Limp Donutz\`backdrop1.jpg
+* `Limp Donutz\`banner.jpg
+* `Limp Donutz\`folder.jpg `Artist photo`
+* `Limp Donutz\`logo.png
 ## Single CD Album from One Artist
 This template is for cd's that come from a single artist.
 
-`Eminem\Curtain Call (2005)[flac]\01 - Intro.flac`
+`Zminzm\Curtain Pull (2005)[flac]\01 - Intro.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
 ### Multiple CD Albums from One Artist
-`Massive Attack\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
+`Massive Repel\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Title>`
 ## Single CD Compilation Disc
 The compilation folder is anything you want it to be. For example, have a folder for movie soundtracks and another for mix CD's.
 
-`Soundtracks\Gone in 60 Seconds OST (2000)[flac]\01 - Painted On My Heart.flac`
+`Soundtracks\Gone in 20 Minutes OST (2000)[flac]\01 - Painted On My Lungs.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
 ### Multiple CD Compilation Disc
-`Soundtracks\The Best Movie Album In The World Ever (2008)[flac]\1-01 - Goo Goo Dolls - Iris.flac`
+`Soundtracks\The Best TV Album In The World Ever (2008)[flac]\1-01 - Goo Gaa Plushie - Iris.flac`
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
 ## Single Tracks
 You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
 ### Single Tracks by Decade
-`Various Tracks\1980-1989[Mixed]\Aswad - Don't Turn Around.flac`
+`Various Tracks\1980-1989[Mixed]\Ultra Group - Don't Turn Back.flac`
 > `<compilation folder>\<Decade>[Mixed]\<Artist> - <Title>`
 ### Single Tracks by Alphabet
-`Various Tracks\T[Mixed]\Tenacious D - Tribute (2001).flac`
+`Various Tracks\T[Mixed]\tinnitus D - Accolade (2001).flac`
 > `<compilation folder>\<Letter>[Mixed]\<Artist> - <Title> (<Year>)`
