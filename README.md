@@ -9,9 +9,11 @@ There are a few different pieces of software used to organise files and they are
 `Jellyfin` - Share content locally with devices in your home
 `Python programming language` - bulk converting music video file types and more
 The first three programs have vibrant communities around them and python is a shortcut for converting files so it's not needed much.
-## Music
-This mostly follows the well established guides on saving music to folders. This does not cover audiobooks and music videos are in a seperate guide. This guide mostly outlines metadata fields and useful Musicbee renaming templates.
+## Comics
+Comics have limited guides on the internet for folder stuctures. Some people like to organise by studio or keep collections in the same folder. The way that is outlined in this guide describes another way. This guide has a structure that prioritises using your program of choice to organise the comics into collections using metadata. This way may not be better or worse than other folder structures but it works well for Jellyfin.
 ## Images
 The images folder organises personal photos and videos into year/month categories. Each month has data for the device it was taken with and if the device belongs to someone else. The files have a few words to describe what the file is for. This folder is designed to save your original/raw files. I have outlined a way to save your edited files as well in a seperate root folder.
-## Comics
-Comics have limited guides on the internet for folder stuctures. Some people like to organise by studio or keep collections in the same folder. The way that is outlined in this guide describes another way. This guide has a structure that prioritises using your program of choice to organise the comics into collections using metadata. This way may not be better or worse than other folder structures but it works well for Jellyfin. 
+## Music
+This mostly follows the well established guides on saving music to folders. This does not cover audiobooks and music videos are in a seperate guide. This guide mostly outlines metadata fields and useful Musicbee renaming templates.
+
+ 
