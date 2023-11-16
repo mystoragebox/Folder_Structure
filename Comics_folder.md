@@ -10,6 +10,7 @@ There are many ways to make the metadata for the comics but the best way is to f
 In the world of digital comics there are two main file types that are used to store the comic images, these are cbz and cbr file types. For compatibility with Jellyfin this guide will use the cbz file type. Jellyfin cannot read and cannot create posters for each volume or chapter if cbr is used.
 ### Convert Files
 If your comics are in cbr and you wish to convert them to cbz, there is a Python script here to help with that. The script unpacks and repacks the file with no quality loss to the images in the file.
+> [CBR_to_CBZ](Scripts/CBR_to_CBZ/start.py)
 ## Folder Structure
 Keeping the folder structure consistant is key. Using metadata collectors like anilist or comics.org lets us decide what folders we need. These websites will dictate what comics can go altogether in one folder or if they need to be split into seperate folders. For example:
 
