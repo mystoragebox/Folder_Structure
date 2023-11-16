@@ -1,5 +1,5 @@
 # Music Folder Structure
-Like I said in the readme file, I mostly follow the well established method of music folder structure. I use this Github readme to keep all my Musicbee renaming templates in one place and to keep my metadata fields in order. All the templates below assume you are already in the root music folder.
+Like I said in the readme file, this will mostly follow the well established method of music folder structure. This Github readme is mostly to keep Musicbee renaming templates in one place and to keep important metadata fields in order. All the templates below assume you are already in the root music folder.
 
 For example:
 `C:\MUSIC\.....`
@@ -18,9 +18,9 @@ The metadata embedded into the music file is important. Here is a list of useful
 * Grouping `This field is used for country of origin`
 * Track Rating
 * Language
-* Keywords `Can be used for anything, I use it for keywords in auto playlists`
+* Keywords `Can be used for anything including a flag for automatic playlists`
 ## Images
-These are the most useful images and the naming convention for them. This mostly follows the recommendations from Jellyfin because that's the service I use at home.
+These are the most useful images and the naming convention for them. This mostly follows the recommendations from Jellyfin because that's a good service for streaming around the home.
 * logo.png
 * backdrop.jpg
 * backdrop1.jpg
