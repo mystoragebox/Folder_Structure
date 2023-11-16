@@ -14,11 +14,13 @@ If your comics are in cbr and you wish to convert them to cbz, there is a Python
 Keeping the folder structure consistant is key. Using metadata collectors like anilist or comics.org lets us decide what folders we need. These websites will dictate what comics can go altogether in one folder or if they need to be split into seperate folders. For example:
 
 The Mad Max comics that were made for the Mad Max: Fury Road movie are all chapters from the same story and when you search on comics.org you can see one page holds all the metadata. The file structure would look like:
+
 `Mad Max - Fury Road[Comics-1452865]\Mad Max - Fury Road Ch.01 - Nux and Immortan Joe.cbz`
 `Mad Max - Fury Road[Comics-1452865]\Mad Max - Fury Road Ch.02 - Furiosa.cbz`
 `....`
 
 Conversly, if you have a multi-series comic like Men in Black you will need multiple folders because the metadata provider has seperate pages for them:
+
 `Men in Black Far Cry[Comics-81813]\Men in Black Far Cry (1997).cbz`
 `Men in Black Retribution[Comics-692003]\Men in Black Retribution (1997).cbz`
 
