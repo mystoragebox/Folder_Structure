@@ -1,4 +1,4 @@
-# this simple script will convert cbr comic files into a cbz files. There is no quality loss in the file images during the conversion. This script doesn't remove copy protection. 
+# this simple script will convert cbr comic files into cbz files. There is no quality loss in the file images during the conversion. This script doesn't remove copy protection. 
 # You will need to create two new folders, 'input' and 'output' or change the variables below.
 
 # The script needs this to function: patoolib
