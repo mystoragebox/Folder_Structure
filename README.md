@@ -7,7 +7,7 @@ There are a few different pieces of software used to organise files and they are
 * `Powertoys` - Great for bulk renaming files
 * `Musicbee` - Organise music and music videos
 * `Jellyfin` - Share content locally with devices in your home
-* `Python programming language` - bulk converting music video file types and more
+* `Python programming language` - bulk converting music videos, comics and more
 
 
 The first three programs have vibrant communities around them and python is a shortcut for converting files so it's not needed much.
