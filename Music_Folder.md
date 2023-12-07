@@ -57,7 +57,7 @@ The compilation folder is anything you want it to be. For example, have a folder
 > `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
 ## Single Tracks
 You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
-> If you use software that scrapes metadata you may want to put these files in a seperate root folder: C:\RANDOM MUSIC\.....
+> If you use software that scrapes metadata for your CD collection, you may want to put these files in a seperate root folder: C:\RANDOM MUSIC\.....
 ### Single Tracks by Decade
 `Various Artists\1980-1989[Mixed]\Ultra Group - Don't Turn Back.flac`
 > `<compilation folder>\<Decade>[<.Ext>]\<Artist> - <Title>`
