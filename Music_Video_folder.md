@@ -25,11 +25,11 @@ There are two main folder structures that can be used, artist folders and variou
 * `<Artist or Various>\backdrop1.jpg`
 
 ### Artist Folders
-This folder struture will have the artists name as the folder name and the song title as the filename.
-* Backally Boys\Nobody.mp4
-* Fort Major\Forget the Name.mp4
+This folder struture will have the artists name as the folder name and the song title and year as the filename.
+* Backally Boys\Nobody (1997).mp4
+* Fort Major\Forget the Name (2005).mp4
 
-`<Artist>\<Title><.ext>`
+`<Artist>\<Title> (<Year>)<.ext>`
 ### Various Artist Folders
 Here you can name the folder whatever you like (Soundtracks, Various etc.) and the filename will have the artist, title and year.
 * Soundtracks\John Smith - St.Elmo's Water (1984).mp4
