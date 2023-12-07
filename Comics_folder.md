@@ -5,7 +5,7 @@ This is a guide on how to organise comics in a folder structure that is easy to 
 ## Metadata
 There are two methods to have metadata for comics, the first is to have a comicinfo.xml file in the same folder as the comic files. The next is to have a comicinfo.xml embedded into the comic file. There are pros and cons to each method but the overview is with a commicinfo.xml in the folder you will be limited to the information of the comic series while the embedded file can hold metadata for each volume or chapter of the comic.
 
-There are many ways to make the metadata for the comics but the best way is to find a metadata scraper on github and use that. There is a python script that I have made scraping data using anilist api that is in the scripts folder. This script relies on the user to input data and cut/paste files so if you have a large collection try another script. See the script for more information.
+There are many ways to make the metadata for the comics but the best way is to find a metadata scraper on github and use that. 
 ## Files
 In the world of digital comics there are two main file types that are used to store the comic images, these are cbz and cbr file types. For compatibility with Jellyfin this guide will use the cbz file type. Jellyfin cannot read and cannot create posters for each volume or chapter if cbr is used.
 ### Convert Files
