@@ -59,7 +59,7 @@ The compilation folder is anything you want it to be. For example, have a folder
 You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
 ### Single Tracks by Decade
 `Various Artists\1980-1989[Mixed]\Ultra Group - Don't Turn Back.flac`
-> `<compilation folder>\<Decade>[Mixed]\<Artist> - <Title>`
+> `<compilation folder>\<Decade>[<.Ext>]\<Artist> - <Title>`
 ### Single Tracks by Alphabet
 `Various Artists\T[Mixed]\tinnitus D - Accolade (2001).flac`
-> `<compilation folder>\<Letter>[Mixed]\<Artist> - <Title> (<Year>)`
+> `<compilation folder>\<Letter>[<.Ext>]\<Artist> - <Title> (<Year>)`
