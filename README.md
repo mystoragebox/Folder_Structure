@@ -12,7 +12,7 @@ There are a few different pieces of software and utilities used to organise file
 * `cmd` - Command line for some simple bulk video converting
 
 
-The first three programs have vibrant communities around them, Jellyfin is more for viewing and playback of files and python has scripts that I've made availble to use for converting files like mkv to mp4 or cbr to cbz.
+The first three programs have vibrant communities around them, Jellyfin is more for viewing and playback of files and python, Ffmpeg have scripts that I've made availble to use for converting files like mkv to mp4 or cbr to cbz.
 ## Comics
 Comics have limited guides on the internet for folder stuctures. Some people like to organise by studio or keep collections in the same folder. The way that is outlined in this guide describes another way. This guide has a structure that prioritises using your program of choice to organise the comics into collections using metadata. This way may not be better or worse than other folder structures but it works well for Jellyfin.
 
