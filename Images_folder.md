@@ -42,11 +42,11 @@ Again looking at this template I will show you some examples:
 ## Edited Images Folder
 I like to keep the raw and edited images in seperate folders. The edited images folder struture is similar to the raw folders with a slight change and has it's own root directory away from the raw images folder.
 
-* `<Root>\EDITED IMAGES\<Year>\<Device>\<Filename>-<Description>.<ext>`
+* `C:\EDITED IMAGES\<Year>\<Device>-<Person>\<Filename>-<Description>.<ext>`
 
-Notice how the device folders don't have the month, instead it has the device and family member if needed. Another example is outlined below with the root folders shown.
+Notice how the device folders don't have the month, instead it has the device and family member if needed. Another example of the raw and edited folder structure is outlined below.
 
 * `C:\IMAGES\2018\09-Canon M3\IMG_9223-Botanic_Gardens.cr2`
 * `C:\IMAGES EDITED\2018\Canon M3\IMG_9223-Botanic_Gardens.jpg`
 
-Of course you can keep the same file structure in both the raw and edited folders but in my experience you would have 100's and possibly 1000's more images in the raw folder, it's just not needed.
+Of course you can keep the same file structure in both the raw and edited folders but in my experience you would have 100's and possibly 1000's more images in the raw folder, the edited folder does not need that level of seperation.
