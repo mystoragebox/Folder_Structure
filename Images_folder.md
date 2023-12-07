@@ -1,14 +1,14 @@
 # Home Photos and Videos Folder
-If you're like me you've no doubt had many phones and cameras over the years. I recently came up with this folder structure I'm happy with for saving images and videos. 
+If you're like me you've no doubt had many phones and cameras over the years. I recently came up with this folder structure I'm happy with for saving images and videos. I assume that you are already in the root folder for the images eg:
+
+* `C:\IMAGES\.....`
 
 ### Folder Names
-The folder names start with the year and month then you can type in keywords to describe where the contents came from. Keeping it basic is key, I use a combination of what device it is and if the files belong to another family member. I have a few examples below:
+You start with the main year folder than create sub-folders for the months. You can then type in metadata into the month folder name to describe where the contents came from. Keeping it basic is key, I use a combination of what device it is and if the files belong to another family member. I have a few examples below:
 
-* `2021\12-Motorola Edge20`
-* `2021\12-Sony A7RIII`
-* `2021\12-Sony ZV1-Joel`
-
-Note how the three above folders are from the same year and month but have seperate folders for each device.
+* `2021\12-Motorola Edge20` - My own device
+* `2021\12-Sony A7RIII` - My own device
+* `2021\12-Sony ZV1-Joel` - A family members device
 
 ### Searchable Files
 To keep the files searchable I write a few words in the filename. You should use descriptive words for this that clearly convey what the file is for. I edit the filenames with powertoys when copying to my pc. Below are a few examples:
