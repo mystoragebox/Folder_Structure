@@ -14,6 +14,7 @@ Mp4 files can hold a limited amount of metadata that Jellyfin can scrape. Start 
 * `Album`
 * `Year`
 * `Genre`
+
 Something to keep in mind is you need to exactly match the `Album` field to your CD albums if you have them. This ensures that the music videos can be linked to your music. Also if the music video has no CD album match you can add the `Artist` name to the `Album` field. I would recommend doing this for various artists folders.
 ## Folder structure
 There are two main folder structures that can be used, artist folders and various artists folders which we will get into below but for now lets focus on the common sidecar files in each folder that software like Jellyfin can use. These sidecar files make the browsing experience better Jellyfin.
