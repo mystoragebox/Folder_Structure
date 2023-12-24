@@ -5,7 +5,9 @@ For example:
 `C:\MUSIC\.....`
 
 ## Track File Types
-My main goal with the music collection is to keep at least CD quality files. This is so that I don't have to keep ripping my CD's. Sometimes that is impossible but most of the collection is in FLAC with the rest being MP3. If you have larger file types and want to convert them eg: DSF to FLAC, I have some lines of code in the scripts folder.
+My main goal with the music collection is to keep at least CD quality files. This is so that I don't have to keep ripping my CD's. Sometimes FLAC quality is impossible, in those cases I try to use 320k MP3. If you have larger file types and want to convert them eg: DSF to FLAC, I have some lines of code in the scripts folder.
+
+> [Music_Conversions](Scripts/Music_Conversions/Readme.md)
 
 ## Metadata
 The metadata embedded into the music file is important. Here is a list of useful metadata fields. Most of these fields need no explanation but I have provided explanation where appropriate.
