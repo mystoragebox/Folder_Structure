@@ -24,6 +24,9 @@ The metadata embedded into the music file is important. Here is a list of useful
 * Track Rating
 * Language
 * Keywords `Can be used for anything including a flag for automatic playlists`
+#### Metadata Tips
+If the album is simply labeled as _Greatest Hits_ I like to put the artists name in square brackets inside of the album field as well.
+* Greatest Hits[Blue Day]
 ## Images
 These are the most useful images and the naming convention for them. This mostly follows the recommendations from Jellyfin because that's a good service for streaming around the home.
 * logo.png
