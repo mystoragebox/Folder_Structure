@@ -47,7 +47,7 @@ To give an example:
 This template is for cd's that come from a single artist.
 
 * `Zminzm\Curtain Pull (2005)[flac]\01 - Intro.flac`
-* `Dream Cinema\Greatest Hit (2008)[flac]\01 - Pull Me Under (2007 Remix).flac`
+* `Dream Cinema\Greatest Hit[Dream Cinema] (2008)[flac]\01 - Pull Me Under (2007 Remix).flac`
 > `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
 ### Multiple CD Albums from One Artist
 * `Massive Repel\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
