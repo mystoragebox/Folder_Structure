@@ -5,7 +5,7 @@ For example:
 `C:\MUSIC\.....`
 
 ## Track File Types
-My main goal with the music collection is to keep at least CD quality files. This is so that I don't have to keep ripping my CD's. Sometimes FLAC quality is impossible, in those cases I try to use 320k MP3. If you have larger file types and want to convert them eg: DSF to FLAC, I have some lines of code in the scripts folder.
+My main goal with the music collection is to keep at least CD quality files. This is so that I don't have to keep ripping my CD's. Sometimes FLAC quality is impossible, in those cases I try to use 320k MP3. If you have larger file types and want to convert them eg: SACD ISO to DSF or DSF to FLAC, I have some lines of code in the scripts folder.
 
 > [Music_Conversions](Scripts/Music_Conversions/Readme.md)
 
