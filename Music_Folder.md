@@ -48,27 +48,27 @@ This template is for cd's that come from a single artist.
 
 * `Zminzm\Curtain Pull (2005)[flac]\01 - Intro.flac`
 * `Dream Cinema\Greatest Hit[Dream Cinema] (2008)[flac]\01 - Pull Me Under (2007 Remix).flac`
-> `<Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
+> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
 ### Multiple CD Albums from One Artist
 * `Massive Repel\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 * `Def Tiger\COLLECTED (2005)[flac]\1-01 - Pour Some Sugar On Me.flac`
-> `<Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Title>`
+> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Title>`
 ## Single CD Compilation Disc
 The compilation folder is anything you want it to be. For example, have a folder for movie soundtracks and another for mix CD's.
 
 * `Soundtracks\Gone in 20 Minutes OST (2000)[flac]\01 - Painted On My Lungs.flac`
 * `Various Artists\LATER The Hits Of Spring (2009)[flac]\01 - David Clooney - When Love Takes Over.flac`
-> `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
+> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
 ### Multiple CD Compilation Disc
 * `Soundtracks\The Best TV Album In The World Ever (2008)[flac]\1-01 - Goo Gaa Plushie - Iris.flac`
 * `Various Artists\100% 90s (2008)[flac]\1-01 - Faithless - Epic.flac`
-> `<compilation folder>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
+> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
 ## Single Tracks
 You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
 > If you use software that scrapes metadata for your CD collection, you may want to put these files in a seperate root folder: C:\RANDOM MUSIC\.....
 ### Single Tracks by Decade
 `Various Artists\1980-1989[Mixed]\Ultra Group - Don't Turn Back.flac`
-> `<compilation folder>\<Decade>[<.Ext>]\<Artist> - <Title>`
+> `<Album Artist>\<Decade>[<.Ext>]\<Artist> - <Title>`
 ### Single Tracks by Alphabet
 `Various Artists\T[Mixed]\tinnitus D - Accolade (2001).flac`
-> `<compilation folder>\<Letter>[<.Ext>]\<Artist> - <Title> (<Year>)`
+> `<Album Artist>\<Letter>[<.Ext>]\<Artist> - <Title> (<Year>)`
