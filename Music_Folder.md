@@ -20,29 +20,13 @@ The metadata embedded into the music file is important. Here is a list of useful
 * Track `track number`
 * Disc `disc number, if one disc leave empty`
 * Genre
-* Grouping `This field is used for country of origin`
+* Grouping `This field is used for country of origin or a special cd set`
 * Track Rating
 * Language
 * Keywords `Can be used for anything including a flag for automatic playlists`
 #### Metadata Tips
 If the album is simply labeled as _Greatest Hits_ I like to put the artists name in square brackets inside of the album field as well.
 * Greatest Hits[Blue Day]
-## Images
-These are the most useful images and the naming convention for them. This mostly follows the recommendations from Jellyfin because that's a good service for streaming around the home.
-* logo.png
-* backdrop.jpg
-* backdrop1.jpg
-* banner.jpg
-* folder.jpg `Artist photo`
-* folder.jpg `Album cover`
-
-To give an example:
-* `Limp Donutz\Still Great (2021)[flac]\`folder.jpg `Album cover`
-* `Limp Donutz\`backdrop.jpg
-* `Limp Donutz\`backdrop1.jpg
-* `Limp Donutz\`banner.jpg
-* `Limp Donutz\`folder.jpg `Artist photo`
-* `Limp Donutz\`logo.png
 ## Single CD Album from One Artist
 This template is for cd's that come from a single artist.
 
