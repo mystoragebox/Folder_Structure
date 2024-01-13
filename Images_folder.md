@@ -31,7 +31,7 @@ Looking at this template I will now show some examples:
 * `2019\04-Canon M3\IMG_0875-Japan.cr2`
 * `2023\06-Sony A7RIII\DSC06441-Glamping_Da_Lat.arw`
 ## Family Photos and Videos
-If you backup file from your family you can put their name next to the device in the folder name like so:
+If you backup files from your family you can put their name next to the device in the folder name like so:
 
 * `<Year>\<Numbered Month>-<Device>-<Person>\<Filename>-<Description>.<ext>`
 
