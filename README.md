@@ -18,3 +18,5 @@ The file structure for music videos is very similar to music. The main differenc
 > [Music Video Guide](Music_Video_folder.md)
 ## Movies and TV Shows
 I don't have a guide on these folder structures because they are already very well established. All you need to do is look at the folder recommendations of your preferred software like Jellyfin, Plex etc.
+## Your Recommendations
+If you have any tips you would like to share please get in contact with me. I would like to hear them.
