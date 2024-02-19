@@ -27,32 +27,26 @@ The metadata embedded into the music file is important. Here is a list of useful
 #### Metadata Tips
 If the album is simply labeled as _Greatest Hits_ I like to put the artists name in square brackets inside of the album field as well.
 * Greatest Hits[Blue Day]
-## Single CD Album from One Artist
+## CD from One Artist
 This template is for cd's that come from a single artist.
 
 * `Zminzm\Curtain Pull (2005)[flac]\01 - Intro.flac`
-* `Dream Cinema\Greatest Hit[Dream Cinema] (2008)[flac]\01 - Pull Me Under (2007 Remix).flac`
-> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Track#> - <Title>`
-### Multiple CD Albums from One Artist
-* `Massive Repel\COLLECTED (2006)[flac]\1-01 - SAFE FROM HARM.flac`
 * `Def Tiger\COLLECTED (2005)[flac]\1-01 - Pour Some Sugar On Me.flac`
 > `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Title>`
-## Single CD Compilation Disc
+
+## CD Compilation Disc
 The compilation folder is anything you want it to be. For example, have a folder for movie soundtracks and another for mix CD's.
 
 * `Soundtracks\Gone in 20 Minutes OST (2000)[flac]\01 - Painted On My Lungs.flac`
-* `Various Artists\LATER The Hits Of Spring (2009)[flac]\01 - David Clooney - When Love Takes Over.flac`
-> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Track> - <Artist> - <Title>`
-### Multiple CD Compilation Disc
-* `Soundtracks\The Best TV Album In The World Ever (2008)[flac]\1-01 - Goo Gaa Plushie - Iris.flac`
 * `Various Artists\100% 90s (2008)[flac]\1-01 - Faithless - Epic.flac`
 > `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
+
 ## Single Tracks
-You may have single tracks laying around in your storage. You can choose between two kinds of sorting. `[Mixed]` in this context shows that there are different types of music files; flac, mp3 etc.
+You may have single tracks laying around in your storage. I found these sorting options work well.
 > If you use software that scrapes metadata for your CD collection, you may want to put these files in a seperate root folder: C:\RANDOM MUSIC\.....
 ### Single Tracks by Decade
-`Various Artists\1980-1989[Mixed]\Ultra Group - Don't Turn Back.flac`
-> `<Album Artist>\<Decade>[<.Ext>]\<Artist> - <Title>`
+`1980-1989[D05]\Ultra Group - Don't Turn Back (1984).flac`
+> `<Album>[D<Disc#>]\<Artist> - <Title> (<Year>)`
 ### Single Tracks by Alphabet
-`Various Artists\T[Mixed]\tinnitus D - Accolade (2001).flac`
-> `<Album Artist>\<Letter>[<.Ext>]\<Artist> - <Title> (<Year>)`
+`VA T\tinnitus D - Accolade (2001) [D06].flac`
+> `<Album>\<Artist> - <Title> (<Year>) [D<Disc#>]`
