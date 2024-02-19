@@ -45,8 +45,8 @@ The compilation folder is anything you want it to be. For example, have a folder
 You may have single tracks laying around in your storage. I found these sorting options work well.
 > If you use software that scrapes metadata for your CD collection, you may want to put these files in a seperate root folder: C:\RANDOM MUSIC\.....
 ### Single Tracks by Decade
-`1980-1989[D05]\Ultra Group - Don't Turn Back (1984).flac`
-> `<Album>[D<Disc#>]\<Artist> - <Title> (<Year>)`
+`1980-1989 [D05]\Ultra Group - Don't Turn Back (1984).flac`
+> `<Album> [D<Disc#>]\<Artist> - <Title> (<Year>)`
 ### Single Tracks by Alphabet
 `VA T\tinnitus D - Accolade (2001) [D06].flac`
 > `<Album>\<Artist> - <Title> (<Year>) [D<Disc#>]`
