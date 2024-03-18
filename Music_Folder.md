@@ -27,6 +27,7 @@ The metadata embedded into the music file is important. Here is a list of useful
 #### Metadata Tips
 If the album is simply labeled as _Greatest Hits_ I like to put the artists name in square brackets inside of the album field as well.
 * Greatest Hits[Blue Day]
+
 With multichannel music (quadraphonic or 5.1) I like to add _[Mch]_ to the track title and _Mch_ to the genre to make sorting easier.
 ## CD from One Artist
 This template is for cd's that come from a single artist.
