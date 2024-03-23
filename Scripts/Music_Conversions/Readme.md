@@ -4,7 +4,11 @@ Here I have a couple of lines of code used in Windows command line. These are fo
 ## SACD ISO to DSF
 This line of code will create DSF tracks from all the SACD ISO's in a given folder. Run command from the same folder that you have your ISO's and be sure the exe program is in that same folder.
 
+2 channel
 > for /R %f in (*.iso) DO "sacd_extract.exe" -P -C -s -2 -i "%f"
+
+Multi channel
+> for /R %f in (*.iso) DO "sacd_extract.exe" -P -C -s -m -i "%f"
 
 This is the exe you need to extract the tracks from the ISO file.
 
