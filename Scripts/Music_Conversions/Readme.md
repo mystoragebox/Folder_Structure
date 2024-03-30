@@ -15,7 +15,7 @@ This is the exe you need to extract the tracks from the ISO file.
 > [sacd_extract.exe](http://sacd-ripper.github.io/)
 
 ## DFF to DSF
-This is a simple script to convert DFF files to DSF. It uses a fork of SOX originally posted by [Mansa](https://github.com/mansr/sox), here is the forum post I [found](https://audiophilestyle.com/forums/topic/24911-dsd-encoding-with-sox/). If you would like the exe file you can find it on [turbulentie](https://github.com/turbulentie/sox-dsd-win/blob/main/README.md) github.
+This is a simple script to convert DFF files to DSF. It uses a fork of SOX originally posted by [Mansa](https://github.com/mansr/sox), here is the forum [post](https://audiophilestyle.com/forums/topic/24911-dsd-encoding-with-sox/) if you would like to read about it. I used the exe file from [turbulentie](https://github.com/turbulentie/sox-dsd-win/blob/main/README.md) on github.
 
 I'm not sure if it changes the quality of the file, there are many settings you can use in SOX, this is simply to batch encode DSF files from DFF.
 > for /R %f in (*.dff) DO "x86_64-w64-mingw32-sox.exe" -e floating-point "%f" "%~nf.dsf"
