@@ -1,5 +1,5 @@
 # Music Conversions
-Here I have a couple of lines of code used in Windows command line. These are for converting higher quality music into filetypes that are either smaller in size or easier to handle.
+Here I have a few lines of code used in Windows command line. These are for converting higher quality music into filetypes that are either smaller in size or easier to handle.
 
 ## SACD ISO to DSF
 This line of code will create DSF tracks from all the SACD ISO's in a given folder. Run command from the same folder that you have your ISO's and be sure the exe program is in that same folder.
