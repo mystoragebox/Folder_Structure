@@ -1,4 +1,4 @@
-# Powerrename Hints
+# PowerRename Hints
 Here are some common hints I use to organise my files using powertoys. 
 
 ## Replace Everything Between...
