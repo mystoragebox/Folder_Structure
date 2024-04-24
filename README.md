@@ -16,6 +16,9 @@ This mostly follows the well established guides on saving music to folders. This
 ## Music Video
 The file structure for music videos is very similar to music. The main difference is there is no sub folders for albums. I convert all video files into mp4 so metadata from Musicbee can be used and accessed by Jellyfin.
 > [Music Video Guide](Music_Video_folder.md)
+## Scripts
+This is a collection of scripts and hints in Python, command line and regular expressions to help organise and transcode files for your collection.
+> [Scripts](Scripts/Readme.md)
 ## Movies and TV Shows
 I don't have a guide on these folder structures because they are already very well established. All you need to do is look at the folder recommendations of your preferred software like Jellyfin, Plex etc.
 ## Your Recommendations
