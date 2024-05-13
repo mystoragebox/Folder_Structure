@@ -19,3 +19,8 @@ This command line script prepares music videos for metadata that is easily be re
 This is a file that has hints for getting the most out of PowerRename.
 
 > [PowerRename](PowerRename.md)
+
+## Ffmpeg
+This is a file that has hints for Ffmpeg in the command line. Hints here don't fit in the other files I have in this repository.
+
+> [Ffmpeg](Ffmpeg.md)
