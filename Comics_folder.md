@@ -16,21 +16,21 @@ Keeping the folder structure consistant is key. Using metadata collectors like a
 
 The Mad Mick comics that were made for the Mad Mick: Fury Street movie are all chapters from the same story and when you search on comics.org you can see one page holds all the metadata. The file structure would look like:
 
-* `Mad Mick - Fury Street[Comics-1452865]\Mad Mick - Fury Street Ch.01 - Nux and Immortan Joe.cbz`
-* `Mad Mick - Fury Street[Comics-1452865]\Mad Mick - Fury Street Ch.02 - Furiosa.cbz`
+* `Mad Mick - Fury Street\Mad Mick - Fury Street Ch.01 - Nux and Immortan Joe.cbz`
+* `Mad Mick - Fury Street\Mad Mick - Fury Street Ch.02 - Furiosa.cbz`
 * `....`
 
 Conversly, if you have a multi-series comic like Men in Blue you will need multiple folders because the metadata provider has seperate pages for them:
 
-* `Men in Blue Long Cry[Comics-81813]\Men in Blue Long Cry (1997).cbz`
-* `Men in Blue Punishment[Comics-692003]\Men in Blue Punishment (1997).cbz`
+* `Men in Blue Long Cry\Men in Blue Long Cry (1997).cbz`
+* `Men in Blue Punishment\Men in Blue Punishment (1997).cbz`
 
 This will explain in a bit more detail the files contained in the folders.
 
-* `Pasturama[comics-15319]` Write the page number from the metadata provider here
-* `Pasturama[comics-15319]\folder.jpg` cover for the folder
-* `Pasturama[comics-15319]\ComicInfo.xml` metadata for the comic series
-* `Pasturama[comics-15319]\Pasturama Vol.01.cbz` Vol. is short for volume
-* `Pasturama[comics-15319]\Pasturama Vol.01-poster.jpg` Front cover of the file
-* `Pasturama[comics-15319]\Pasturama Ch.059.cbz` Ch. is short for chapter. Use 3 digits for chapter.
+* `Pasturama` Write the page number from the metadata provider here
+* `Pasturama\folder.jpg` cover for the folder
+* `Pasturama\ComicInfo.xml` metadata for the comic series
+* `Pasturama\Pasturama Vol.01.cbz` Vol. is short for volume
+* `Pasturama\Pasturama Vol.01-poster.jpg` Front cover of the file
+* `Pasturama\Pasturama Ch.059.cbz` Ch. is short for chapter. Use 3 digits for chapter.
 
