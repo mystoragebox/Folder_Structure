@@ -29,6 +29,8 @@ If the album is simply labeled as _Greatest Hits_ I like to put the artists name
 * Greatest Hits[Blue Day]
 
 With multichannel music (quadraphonic or 5.1) I like to add _[Mch]_ to the track title and _Mch_ to the genre to make sorting easier.
+
+I use _[MyCD]_ in the album field when I made my own CD thats not in the online databases. This seperates these CD's from the collection that can use the online databases.
 ## CD from One Artist
 This template is for cd's that come from a single artist.
 
@@ -52,3 +54,11 @@ You may have single tracks laying around in your storage. I found these sorting 
 ### Single Tracks by Alphabet
 `VA T\tinnitus D - Accolade (2001) [D06].flac`
 > `<Album>\<Artist> - <Title> (<Year>) [D<Disc#>]`
+
+## Musicbee File Organiser
+I use exceptions when using the file organiser in Musicbee. I start with the root drive then change the naming template to match what I want to happen. When you add an exception take note of the order, Musicbee starts from the last exception and works up from there. These are my exceptions when used with the above templates:
+
+C:\ `MUSIC\_CD from One Artist template_`
+Album contains 'MyCD' `MUSIC VA\_CD from One Artist template_`
+any of Album Artist is 'Various Artists', Album Artist is 'Soundtrack' `MUSIC\_CD Compilation Disc_`
+any of Album is 'Various Artists', Album is 'Various Soundtrack' `MUSIC VA\_Single Tracks by Decade_`
