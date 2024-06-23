@@ -58,10 +58,10 @@ You may have single tracks laying around in your storage. I found these sorting 
 ## Musicbee File Organiser
 I use exceptions when using the file organiser in Musicbee. I start with the root drive then change the naming template to match what I want to happen. When you add an exception take note of the order, Musicbee starts from the last exception and works up from there. These are my exceptions when used with the above templates:
 
-C:\ `MUSIC\_CD from One Artist template_`
+C:\ `MUSIC\CD from One Artist template`
 
-Album contains 'MyCD' `MUSIC VA\_CD from One Artist template_`
+Album contains 'MyCD' `MUSIC VA\CD from One Artist template`
 
-any of Album Artist is 'Various Artists', Album Artist is 'Soundtrack' `MUSIC\_CD Compilation Disc_`
+any of Album Artist is 'Various Artists', Album Artist is 'Soundtrack' `MUSIC\CD Compilation Disc`
 
-any of Album is 'Various Artists', Album is 'Various Soundtrack' `MUSIC VA\_Single Tracks by Decade_`
+any of Album is 'Various Artists', Album is 'Various Soundtrack' `MUSIC VA\Single Tracks by Decade`
