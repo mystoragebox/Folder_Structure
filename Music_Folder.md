@@ -31,7 +31,7 @@ If the album is simply labeled as _Greatest Hits_ I like to put the artists name
 
 With multichannel music (quadraphonic or 5.1) I like to add _[Mch]_ to the track title and _Mch_ to the genre to make sorting easier.
 
-I use _[MyCD]_ in the album field when I made my own CD thats not in the online databases. This seperates these CD's from the collection that can use the online databases.
+I use _[MyCD]_ in the album field when I made my own CD thats not in the online databases. This separates these CD's from the collection that can use the online databases.
 ## CD from One Artist
 This template is for cd's that come from a single artist.
 
