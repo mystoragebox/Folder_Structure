@@ -24,6 +24,7 @@ The metadata embedded into the music file is important. Here is a list of useful
 * Track Rating
 * Language
 * Keywords `Can be used for anything including a flag for automatic playlists`
+* Original Year `Use this tag for the year that the CD came out if it is a greatest hits album or compilation CDs.`
 #### Metadata Tips
 If the album is simply labeled as _Greatest Hits_ I like to put the artists name in square brackets inside of the album field as well.
 * Greatest Hits[Blue Day]
