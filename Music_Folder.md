@@ -36,14 +36,14 @@ This template is for cd's that come from a single artist.
 
 * `Zminzm\Curtain Pull (2005)[flac]\01 - Intro.flac`
 * `Def Tiger\COLLECTED (2005)[flac]\1-01 - Pour Some Sugar On Me.flac`
-> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Title>`
+> `<Album Artist>\<Album> ($IsNull(<Original Year>,<Year>,<Original Year>))[<.Ext>]\<Disc-Track#> - <Title>`
 
 ## CD Compilation Disc
 The compilation folder is anything you want it to be. For example, have a folder for movie soundtracks and another for mix CD's.
 
 * `Soundtracks\Gone in 20 Minutes OST (2000)[flac]\01 - Painted On My Lungs.flac`
 * `Various Artists\100% 90s (2008)[flac]\1-01 - Faithless - Epic.flac`
-> `<Album Artist>\<Album> (<Year>)[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
+> `<Album Artist>\<Album> ($IsNull(<Original Year>,<Year>,<Original Year>))[<.Ext>]\<Disc-Track#> - <Artist> - <Title>`
 
 ## Single Tracks
 You may have single tracks laying around in your storage. I found these sorting options work well.
